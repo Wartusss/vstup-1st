@@ -1287,3 +1287,16 @@ img { max-width: 100%; display: block; }
   .application-steps li > span { width: 30px; height: 30px; font-size: 13px; }
   .application-primary-link { width: 100%; }
 }
+
+.ec-card a.btn-green,
+.ec-card a.btn-green:visited,
+.ec-card a.btn-green:hover,
+.ec-card a.btn-green:focus {
+  color: #fff;
+}
+
+.ec-card a.btn-green i,
+.ec-card a.btn-green:hover i,
+.ec-card a.btn-green:focus i {
+  color: #fff;
+}
